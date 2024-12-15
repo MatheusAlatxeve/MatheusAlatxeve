@@ -24,7 +24,7 @@ Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e estou sempre em busca d
 ### Frameworks:
 <div style="display: inline_block">
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg"/>
   <img width='100' height='50' src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg">
 </div>
 
